@@ -6,7 +6,7 @@ Bot uses selenium for webdriver
 Requirments: 
 * Python 3.6+ 
 * Selenium module
-* Chrome webdriver
+* Chrome webdriver saved at location C:\Program Files (x86)
 
 Built-in commands:
 * !test
@@ -14,7 +14,5 @@ Built-in commands:
 * !spam (text, # of times to send)
 * !add (command name, command output)
 
-
-It is recommended that the python file is placed in it's own folder  
 
 If login fails delete "login info.json" and try again
