@@ -9,4 +9,6 @@ Requirments:
 * Chrome webdriver
 
 
-It is recommended that the python file is placed in it's own folder
+It is recommended that the python file is placed in it's own folder  
+
+If login fails delete "login info.json" and try again
