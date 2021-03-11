@@ -12,6 +12,7 @@ Built-in commands:
 * !test
 * !mimic (text)
 * !spam (text, # of times to send)
+* !add (command name, command output)
 
 
 It is recommended that the python file is placed in it's own folder  
