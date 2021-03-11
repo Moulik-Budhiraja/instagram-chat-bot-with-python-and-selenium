@@ -8,6 +8,11 @@ Requirments:
 * Selenium module
 * Chrome webdriver
 
+Built-in commands:
+* !test
+* !mimic (text)
+* !spam (text, # of times to send)
+
 
 It is recommended that the python file is placed in it's own folder  
 
