@@ -1,6 +1,6 @@
 # Instagram DM Bot 
 
-A bot for instagram direct messeges  
+A bot for instagram direct messages  
 Bot uses selenium for webdriver  
 
 Requirments: 
